@@ -1,0 +1,22 @@
+#query {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  border-bottom: 2px solid black;
+}
+
+.Find {
+  color: 'Red';
+}
+
+.error {
+  position: absolute;
+  width: 320px;
+  left: 50px;
+  top: 30px;
+  padding: 1.2em
+}
+
+table, th, td {
+    border: 1px solid black;
+}
